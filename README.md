@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suteekshn Manchanda</h1>
-<h3 align="center">🚀 ML Engineer | Product Builder | Legal-Tech Innovator</h3>
+<h3 align="center">🚀 ML Engineer | Product Builder | Ex-Founder</h3>
 
 ---
 
@@ -11,23 +11,27 @@
 - 🌍 Building AI systems for real-world impact
 
 ---
+## 🛠️ Tech Stack
 
-## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+</p>
 
-### 👨‍💻 Programming
-`C` `C++` `Python` `JavaScript`
-
-### 🤖 Machine Learning
-`TensorFlow` `PyTorch` `Scikit-learn`  
-`CNNs` `Feature Engineering` `Model Optimization`
-
-### 🌐 Frameworks
-`Flask` `FastAPI` `Streamlit`
-
-### 📊 Data & Tools
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
-
----
 
 ## 🚀 Featured Projects
 
