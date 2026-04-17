@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suteekshn Manchanda</h1>
-<h3 align="center">🚀 ML Engineer | Product Builder | Ex-Founder @nyagrik.com</h3>
+<h3 align="center">🚀 ML Engineer | Product | Research </h3>
 
 ---
 
