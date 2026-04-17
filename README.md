@@ -1,38 +1,34 @@
 <h1 align="center">Hi 👋, I'm Suteekshn Manchanda</h1>
-<h3 align="center">🚀 ML Engineer | Product Builder | Ex-Founder</h3>
+<h3 align="center">🚀 ML Engineer | Product Builder | Ex-Founder @nyagrik.com</h3>
 
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech ECE @ MAIT (CGPA: 8.3)
-- 🔬 Research Intern @ DTU (Multimodal AI)
-- 🚀 Product Lead @ Nyagrik (LegalTech Startup)
+- 🎓 2nd year ECE undergrad at MAIT
+- 🎯 Upccoming ML intern @DRDO
+- 🔬 Ex Research Intern @ DTU (Multimodal AI)
+- 🚀 Ex-Founder @ Nyagrik 
 - 🏆 2× Hackathon Winner | 5× Finalist
 - 🌍 Building AI systems for real-world impact
 
 ---
-## 🛠️ Tech Stack
 
-<p align="center">
+## ⚡ Tech Stack
 
-<!-- Row 1 -->
+### 👨‍💻 Programming
+`C` `C++` `Python` `JavaScript`
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,tensorflow,pytorch,flask,fastapi" />
+### 🤖 Machine Learning
+`TensorFlow` `PyTorch` `Scikit-learn`  
+`CNNs` `Feature Engineering` `Model Optimization`
 
-<br/><br/>
+### 🌐 Frameworks
+`Flask` `FastAPI` `Streamlit`
 
-<!-- Row 2 -->
+### 📊 Data & Tools
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,opencv,git,github,vscode" />
-
-<br/><br/>
-
-<!-- Row 3 -->
-
-<img src="https://skillicons.dev/icons?i=linux,figma" />
-
-</p>
-
+---
 
 ## 🚀 Featured Projects
 
@@ -63,4 +59,10 @@
 
 ---
 
-⭐ *"Building AI that actually matters."*
+🏅 Achievements
++ 🏆 2× Hackathon Winner | 5× Finalist (National Level)
++ 🌏 Delegate @ HPAIR ACONF’25
++ 📈 Top 12K Users on Unstop Platform
++ 🥉 Bronze Medalist - Zonal Swimming Championship
++ 🏊 Top 8 Swimmer in Delhi
++ 💡 3× Ideathon Finalist | 2× Winner
