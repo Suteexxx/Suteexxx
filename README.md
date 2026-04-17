@@ -53,12 +53,6 @@
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/suteekshn-manchanda-936b16330/
-- 📧 Email: suteekshn1921@gmail.com
-
----
-
 🏅 Achievements
 + 🏆 2× Hackathon Winner | 5× Finalist (National Level)
 + 🌏 Delegate @ HPAIR ACONF’25
@@ -66,3 +60,10 @@
 + 🥉 Bronze Medalist - Zonal Swimming Championship
 + 🏊 Top 8 Swimmer in Delhi
 + 💡 3× Ideathon Finalist | 2× Winner
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/suteekshn-manchanda-936b16330/
+- 📧 Email: suteekshn1921@gmail.com
+
+---
+
