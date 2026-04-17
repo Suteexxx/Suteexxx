@@ -14,22 +14,23 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+
+<!-- Row 1 -->
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,tensorflow,pytorch,flask,fastapi" />
+
+<br/><br/>
+
+<!-- Row 2 -->
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,opencv,git,github,vscode" />
+
+<br/><br/>
+
+<!-- Row 3 -->
+
+<img src="https://skillicons.dev/icons?i=linux,figma" />
+
 </p>
 
 
