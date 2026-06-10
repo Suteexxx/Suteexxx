@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 - 🎓 2nd year ECE undergrad at MAIT
-- 🎯 Upccoming ML intern @DRDO
+- 🎯 ML intern @DRDO
 - 🔬 Ex Research Intern @ DTU (Multimodal AI)
 - 🚀 Ex-Founder @ Nyagrik 
 - 🏆 2× Hackathon Winner | 5× Finalist
