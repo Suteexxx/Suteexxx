@@ -58,26 +58,23 @@
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats  
 
-<p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Suteexxx&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-
-<img height="170em"
-src="https://github-readme-streak-stats.demolab.com?user=Suteexxx&theme=radical"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suteexxx&layout=compact&theme=radical"/>
-
-</p>
-
----
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=Suteexxx-fi&theme=radical" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=harshrana14-fi&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshrana14-fi&layout=compact&theme=radical" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 # 🏅 Achievements
 
