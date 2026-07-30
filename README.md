@@ -42,15 +42,15 @@
 
 ## 🚀 Featured Projects
 
-### 🪖 Soldier Health Risk Prediction System
+### AI Debater — A voice-based AI debate opponent that researches and argues back in real time.
 
-- ML model predicting soldier health collapse up to 30 minutes in advance
-- Time-series analysis using IoT sensor simulation
-- Random Forest with feature engineering
+Full debate loop: pick a topic category, spin for a live topic, choose your stance, then research head-to-head against an AI opponent researching the opposite side.
+Real-time voice debate powered by Groq LLM inference, browser-native speech recognition/synthesis, and a custom animated avatar — no paid APIs required.
+Deployed as a decoupled FastAPI backend (Render) + static frontend (Vercel), with automated web research (DuckDuckGo) feeding a live-generated debate brief and post-debate AI scorecard.
 
 ---
 
-### 🚁 Drone Landing Zone Detection
+###  Drone Landing Zone Detection
 
 - CNN model achieving **96% accuracy**
 - Real-time predictions using Streamlit
