@@ -3,9 +3,9 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 2nd Year Electronics & Communication Engineering Student at MAIT
+- 🎓 3rd Year Electronics & Communication Engineering Student at MAIT
 - 🎯 Machine Learning Intern @ SSPL, DRDO
 - 🔬 Ex Research Intern @ DTU (Multimodal AI)
 - 🚀 Ex-Founder @ Nyagrik
@@ -13,32 +13,59 @@
 - 🌍 Building AI systems for real-world impact
 
 ---
-
 ## ⚡ Tech Stack
 
-### 👨‍💻 Programming
-`C` `C++` `Python` `JavaScript`
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
 
-### 🤖 Machine Learning
-`TensorFlow`
-`PyTorch`
-`Scikit-learn`
-`CNNs`
-`Feature Engineering`
-`Model Optimization`
+### 🤖 AI / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
+</p>
 
-### 🌐 Frameworks
-`Flask`
-`FastAPI`
-`Streamlit`
+### 🧠 AI Concepts
+<p align="left">
+  <img src="https://img.shields.io/badge/CNNs-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Optimization-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" />
+</p>
 
-### 📊 Data & Tools
-`Pandas`
-`NumPy`
-`Matplotlib`
-`Seaborn`
+### 🌐 Frameworks & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
----
+### 📊 Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases & Vector Stores
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+</p>
+
+### ☁️ Deployment & Dev Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+</p>
 
 ## 🚀 Featured Projects
 
