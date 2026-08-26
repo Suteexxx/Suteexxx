@@ -108,7 +108,6 @@ Deployed as a decoupled FastAPI backend (Render) + static frontend (Vercel), wit
 - 🏆 2× National Hackathon Winner | 5× Finalist
 - 🌏 Delegate @ HPAIR ACONF'25
 - 📈 Top 12K Users on Unstop
-- 🥉 Bronze Medalist – Zonal Swimming Championship
 - 🏊 Top 8 Swimmer in Delhi
 - 💡 3× Ideathon Finalist | 2× Winner
 
