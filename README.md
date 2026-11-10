@@ -6,9 +6,10 @@
 ##  About Me
 
 - 🎓 3rd Year Electronics & Communication Engineering Student at MAIT
-- 🎯 Machine Learning Intern @ SSPL, DRDO
-- 🔬 Ex Research Intern @ DTU (Multimodal AI)
+- 🎯 Artificial Intelligence Intern @ SSPL, DRDO
+- 🔬 Ex ML Research Intern @ DTU (Multimodal AI)
 - 🚀 Ex-Founder @ Nyagrik
+- 📈 Ex Growth AnalytixLabs
 - 🏆 2× National Hackathon Winner | 5× Finalist
 - 🌍 Building AI systems for real-world impact
 
